@@ -1,0 +1,5 @@
+print("Formula of perimeter of circle is 2*3.1415*r")
+print("Formula of area of circle is 3.1415*r*r")
+r = int(input("Enter the radius of circle: "))
+print("The perimetr of circle is: ",2*3.1415*r)
+print("The area of circle is: ",3.1415*r*r)

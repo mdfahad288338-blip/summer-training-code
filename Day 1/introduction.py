@@ -1,0 +1,1 @@
+print("Hello,My name is Mohd Fahad \nCurrently I am pursuing my BTECH from ADGIPS \nI have enrolled in Data Science inhouse training.  ")
